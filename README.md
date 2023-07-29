@@ -9,15 +9,7 @@
   <p align="center">
     SlideAI is an automated PowerPoint generator that streamlines the process of creating engaging presentations. By leveraging artificial intelligence, SlideAI takes care of content creation, slide design, and formatting, saving valuable time and effort. Simply input your key points, and SlideAI intelligently generates visually appealing slides with appropriate layouts, graphics, and text. It understands the context and presents information in a concise and captivating manner. With SlideAI, professionals can focus on delivering impactful presentations while eliminating the hassle of manual slide creation.
     <br />
-    <br>
-    <a href="https://github.com/siddhesh-desai/SlideAI"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/siddhesh-desai/SlideAI">View Demo</a>
-    ·
-    <a href="https://github.com/siddhesh-desai/SlideAI/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/siddhesh-desai/SlideAI/issues">Request Feature</a>
-  </p>
+    
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -65,17 +57,7 @@ The project needs to be set up as an Appscript project, for that purpose you nee
 
 ### Installation
 
-1. Setup a new AppScript Project.
-2. Copy the files from lib folder to the project.
-3. Replace the below API Keys with your ones:
 
-```sh
-  //Enter your details here
-  //You will find your presntation ID in the link of your google slides.
-  PRESENTATION_ID = "ENTER_YOUR_PRESENTATION_ID";
-  OPENAI_KEY = "Bearer ENTER_YOUR_OPENAI_KEY";
-  BING_API_KEY = "ENTER_YOUR_BING_SEARCH_API_KEY";
-```
 
 4. In your AppScript Project, from the left pane, add a Service named - **Google Slides API**
 
@@ -112,22 +94,8 @@ See the [open issues](https://github.com/siddhesh-desai/SlideAI/issues) for a fu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
-## 👣 Contributing
 
-Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📸 Screenshots
