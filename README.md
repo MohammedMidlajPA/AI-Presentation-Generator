@@ -6,12 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br/>
-<div align="center">
-  <a href="https://github.com/siddhesh-desai/SlideAI">
-    <img src="images/SlideAI-logo.png" alt="Logo">
-  </a>
+
     <br>
     <br>
 
@@ -60,7 +55,7 @@ The technologies and tools used are:
 - [![OpenAI API][openai]][openai-url]
 - [![Bing API][bing]][bing-url]
 - [![Google Slides API][googleslides]][googleslides-url]
--  [![DALL-E][DALL-E]][]
+-  DALL-E
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
