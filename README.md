@@ -1,4 +1,4 @@
-# AI-Presentation-Generato<a name="readme-top"></a>
+# AI-Presentation-Generator
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
