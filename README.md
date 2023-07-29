@@ -60,6 +60,7 @@ The technologies and tools used are:
 - [![OpenAI API][openai]][openai-url]
 - [![Bing API][bing]][bing-url]
 - [![Google Slides API][googleslides]][googleslides-url]
+-  [![DALL-E][DALL-E]][]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
