@@ -49,7 +49,7 @@ The technologies and tools used are:
 - [![OpenAI API][openai]][openai-url]
 - [![Bing API][bing]][bing-url]
 - [![Google Slides API][googleslides]][googleslides-url]
--  DALL-E
+-    DALL-E
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,6 +95,7 @@ The project needs to be set up as an Appscript project, for that purpose you nee
 - Image Inclusion using Bing API
 - Content Generation using OpenAI API
 - Presentation Design using Slides API
+- Create ppt images and content with DALL-E API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +106,7 @@ The project needs to be set up as an Appscript project, for that purpose you nee
 - [x] Relevant Content Generation
 - [x] Relevant Image Addition
 - [x] Formatting of the Presentation
-- [ ] Automatic Download of the Presntation
+- [ ] Automatic Download of the Presentation
 
 See the [open issues](https://github.com/siddhesh-desai/SlideAI/issues) for a full list of proposed features (and known issues).
 
