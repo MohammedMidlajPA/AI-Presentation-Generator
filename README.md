@@ -138,15 +138,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## 📧 Contact
-
-Siddhesh Desai - [@thesiddheshdesai](https://www.linkedin.com/in/thesiddheshdesai/) - siddheshdesai777@gmail.com
-
-Project Link: [https://github.com/siddhesh-desai/SlideAI](https://github.com/siddhesh-desai/SlideAI)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📸 Screenshots
 
@@ -155,28 +146,7 @@ Project Link: [https://github.com/siddhesh-desai/SlideAI](https://github.com/sid
 <br>
 <img src="images/slideAI-sample.png" alt="Logo">
 
-## ✨ Contributors
 
-Thanks go to these wonderful people:
-
-- [Siddhesh Desai](https://github.com/siddhesh-desai/)
-- [Ashish Fargade](https://github.com/ashishfargade/)
-- [Pradyun Gayakwad](https://github.com/Pglol03/)
-- [Prathmesh Haridas](https://github.com/pjharidas/)
-- [Jayant Singh](https://github.com/jayantsingh-22)
-
-[contributors-shield]: https://img.shields.io/github/contributors/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[contributors-url]: https://github.com/siddhesh-desai/SlideAI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[forks-url]: https://github.com/siddhesh-desai/SlideAI/network/members
-[stars-shield]: https://img.shields.io/github/stars/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[stars-url]: https://github.com/siddhesh-desai/SlideAI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[issues-url]: https://github.com/siddhesh-desai/SlideAI/issues
-[license-shield]: https://img.shields.io/github/license/siddhesh-desai/SlideAI.svg?style=for-the-badge
-[license-url]: https://github.com/siddhesh-desai/SlideAI/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/thesiddheshdesai
 [app-script]: https://img.shields.io/badge/AppScript-000000?style=for-the-badge&logo=javascript&logoColor=white
 [app-script-url]: https://developers.google.com/apps-script/
 [openai]: https://img.shields.io/badge/OpenAI-0769AD?style=for-the-badge&logo=OpenAI&logoColor=white
