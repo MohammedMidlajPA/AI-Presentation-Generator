@@ -7,8 +7,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-    <br>
-    <br>
+    
 
   <h3 align="center"><b>SlideAI</b></h3>
 
